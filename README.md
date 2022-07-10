@@ -21,6 +21,10 @@ Escribe **/setup** y completa los datos solicitados.
 
 ![](https://i.imgur.com/So9hFmr.png)
 
+Si todo salió bien, tus nuevos videos se publicaran en el canal indicado.
+
+![](https://i.imgur.com/nV5UY2I.png)
+
 # Limitaciones
 
 Debido al uso de Cloudflare y la falta de una API oficial, algunas funciones del Bot están limitadas.

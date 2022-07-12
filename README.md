@@ -1,7 +1,7 @@
 
 # Notificador de Stardeos
 
-Un Bot de Discord que notifica le a tu comunidad cuando subes un video a [Stardeos](https://stardeos.com/).
+Un Bot de Discord que le notifica a tu comunidad cuando subes un video a [Stardeos](https://stardeos.com/).
 
 # Solicitar invitación
 
